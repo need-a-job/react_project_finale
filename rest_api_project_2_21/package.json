@@ -1,0 +1,32 @@
+{
+  "name": "rest_api_project_2_21",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "roei prints",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/need-a-job/rest_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/need-a-job/rest_api/issues"
+  },
+  "homepage": "https://github.com/need-a-job/rest_api#readme",
+  "description": ""
+}

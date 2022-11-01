@@ -1,0 +1,15 @@
+#webPic {
+  width: 100%;
+}
+
+.background {
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.welcome{
+    display: flex;
+    justify-content: center;
+
+}
